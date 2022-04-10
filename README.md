@@ -60,12 +60,6 @@ Puedes tener editar mmods que tengan .ini, y puedes hacerlo en tiempo real, solo
 [Pedfuncs](https://www.mixmods.com.br/2021/04/pedfuncs-v0-4/)
 
 
-[VehFuncs](https://www.mixmods.com.br/2022/02/sa-vehfuncs/)
-
-
-[ImVehFt](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/)
-
-
 ### Gameplay:
 [Sprint Everywhere](https://www.mixmods.com.br/2022/02/sa-sprint-everywhere-correr-em-interiores/)
 
