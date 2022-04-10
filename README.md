@@ -159,9 +159,6 @@ Puedes tener editar mmods que tengan .ini, y puedes hacerlo en tiempo real, solo
 [Enterable Hidden Interiors](https://www.mixmods.com.br/2021/01/enterable-hidden-interiors-entrar-em-interiores-escondidos/)
 
 
-[GTA Mixed](https://www.mixmods.com.br/2021/10/gta-mixed-lcvcsa/)
-
-
 ### Fixes:
 [ProperFixes](https://www.mixmods.com.br/2022/03/sa-proper-fixes/)
 
