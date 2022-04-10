@@ -48,6 +48,9 @@ Puedes tener editar mmods que tengan .ini, y puedes hacerlo en tiempo real, solo
 [fastman92 LimitAdjuster](https://www.mixmods.com.br/2022/01/fastman92-limit-adjuster/)
 
 
+[Open Limital Ajuster](https://www.mixmods.com.br/2015/02/open-limit-adjuster/)
+
+
 [PortableGTA](https://www.mixmods.com.br/2021/06/iii-vc-sa-portablegta-change-saves-folder-mudar-pasta-user-files/)
 
 
@@ -106,8 +109,6 @@ Puedes tener editar mmods que tengan .ini, y puedes hacerlo en tiempo real, solo
 
 [Hairsyle & Beards](https://www.mixmods.com.br/2021/02/hairstyles-beards-escolher-penteado-e-barba/)
 
-
-[Charskins](https://www.mixmods.com.br/2021/09/charskin-mod-usar-roupas-dos-personagens/)
 
 
 [Forgotten Clothes](https://www.mixmods.com.br/2019/02/forgotten-clothes-adicionar-roupas-beta/)
