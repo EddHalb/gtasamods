@@ -149,7 +149,7 @@ Puedes tener editar mmods que tengan .ini, y puedes hacerlo en tiempo real, solo
 [Beta Gangs Skins](https://www.mixmods.com.br/2020/11/beta-gang-skins-added-restaurar-gangue-beta/)
 
 
-[Extended Gang Wars](https://www.mixmods.com.br/2017/07/extended-gang-wars/)
+[Big Gang Wars](https://www.mixmods.com.br/2020/05/big-gangster-mod-v13-5-mais-gangues/)
 
 
 [Fair Police](https://www.mixmods.com.br/2020/10/fair-police-v2-0-2-policiais-atacam-pedestres/)
