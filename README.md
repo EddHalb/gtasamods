@@ -2,7 +2,7 @@
 
 Ya digo la mayoria de mods aqui, estan en mixmods.
 
-# Mandamientos de los MODS
+### Mandamientos de los MODS
 
 
 Usaras mod loader sobre todas las cosas.
@@ -37,7 +37,7 @@ Gamer Tip:
 Puedes tener editar mmods que tengan .ini, y puedes hacerlo en tiempo real, solo edita algo, y presiona F11, tadah, tu mod de sexo esta ahi)
 
 
-# Esencial:
+### Esencial:
 
 [Essentials](https://www.mixmods.com.br/2019/06/sa-essentials-pack/) (lol) 
 
@@ -57,7 +57,7 @@ Puedes tener editar mmods que tengan .ini, y puedes hacerlo en tiempo real, solo
 [Pedfuncs](https://www.mixmods.com.br/2021/04/pedfuncs-v0-4/)
 
 
-# Gameplay:
+### Gameplay:
 [Sprint Everywhere](https://www.mixmods.com.br/2022/02/sa-sprint-everywhere-correr-em-interiores/)
 
 
@@ -97,7 +97,7 @@ Puedes tener editar mmods que tengan .ini, y puedes hacerlo en tiempo real, solo
 [70 Weapons Pack](https://www.mixmods.com.br/2021/02/added-70-weapons-pack-70-novas-armas-adicionadas/) (Por si te da pereze agregar armas tu mismo)
 
 
-# Ropas:
+### Ropas:
 [Hoodie Up](https://www.mixmods.com.br/2018/08/hood-up-colocar-capuz/) (Es medio inutil pero :vv)
 
 
@@ -116,7 +116,7 @@ Puedes tener editar mmods que tengan .ini, y puedes hacerlo en tiempo real, solo
 [CJ Props Mod](https://www.mixmods.com.br/2019/05/cj-props-mod-novos-chapeus-e-oculos/)
 
 
-# Vehiculos:
+### Vehiculos:
 [Revamped Vehicles](https://www.mixmods.com.br/2022/04/sa-revamped-vehicles-project/)
 
 
@@ -135,7 +135,7 @@ Puedes tener editar mmods que tengan .ini, y puedes hacerlo en tiempo real, solo
 [All Vehicle Radio](https://www.gtaall.com/gta-san-andreas/programs/30360-all-cars-radio-repair-activator.html)
 
 
-# Peatones y Bandas:
+### Peatones y Bandas:
 [Peds Buy Food](https://www.mixmods.com.br/2020/07/peds-buy-food-pedestres-compram-comida/)
 
 
@@ -154,14 +154,14 @@ Puedes tener editar mmods que tengan .ini, y puedes hacerlo en tiempo real, solo
 [Fair Police](https://www.mixmods.com.br/2020/10/fair-police-v2-0-2-policiais-atacam-pedestres/)
 
 
-# Mapa:
+### Mapa:
 [Enterable Hidden Interiors](https://www.mixmods.com.br/2021/01/enterable-hidden-interiors-entrar-em-interiores-escondidos/)
 
 
 [GTA Mixed](https://www.mixmods.com.br/2021/10/gta-mixed-lcvcsa/)
 
 
-# Fixes:
+### Fixes:
 [ProperFixes](https://www.mixmods.com.br/2022/03/sa-proper-fixes/)
 
 
@@ -186,7 +186,7 @@ Puedes tener editar mmods que tengan .ini, y puedes hacerlo en tiempo real, solo
 [SA Ped Tweaks](https://www.mixmods.com.br/2021/09/sa-ped-tweaks-restaurar-policiais-e-pedestres/)
 
 
-# Visualess:
+### Visualess:
 [Project2DFX](https://www.mixmods.com.br/2020/02/sa-project2dfx/)
 
 
